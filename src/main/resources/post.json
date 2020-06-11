@@ -1,0 +1,25 @@
+{
+    "transactions": [
+    {
+        "transactionType": "Withdrawl",
+        "title": "Dress Belt",
+        "amount": 50.00,
+        "initialBalance": 1000.00,
+        "closingBalance": 950.00,
+        "notes": "New Dress Belt",
+        "lastUpdatedDate": "2014-12-06T05:23:30.000+0000",
+        "lastUpdatedBy": "Kevin Bowersox",
+        "createdDate": "2014-12-06T05:23:30.000+0000",
+        "createdBy": "Kevin Bowersox"
+    }
+    ],
+    "name": "Checking Account",
+    "initialBalance": 1000.00,
+    "currentBalance": 1000.00,
+    "openDate": "2014-12-03T18:30:00.000+0000",
+    "closeDate": "2014-12-03T18:30:00.000+0000",
+    "lastUpdatedDate": "2014-12-04T12:00:30.000+0000",
+    "lastUpdatedBy": "Kevin Bowersox",
+    "createdDate": "2014-12-04T12:00:30.000+0000",
+    "createdBy": "Kevin Bowersox"
+}
